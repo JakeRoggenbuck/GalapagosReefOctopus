@@ -1,0 +1,85 @@
+* {
+  box-sizing:border-box
+}
+body {
+    font-family: 'Actor';font-size: 22px;
+    background-color: #0B558F;
+}
+.wrapText {
+  padding: 6px;
+  margin-left: 20%;
+  margin-right: 20%;
+}
+.banner {
+    padding: 6px;
+    background-color: #167CCC;
+    color: #dddddd;
+    border-radius: 5px;
+    border-color: #434343;
+}
+.banner20 {
+    padding: 6px;
+    margin-left: 20%;
+    margin-right: 20%;
+    background-color: #167CCC;
+    color: #dddddd;
+    border-radius: 5px;
+    border-color: #434343;
+}
+.banner15 {
+    padding: 6px;
+    margin-left: 25%;
+    margin-right: 25%;
+    background-color: #167CCC;
+    color: #dddddd;
+    border-radius: 5px;
+    border-color: #434343;
+}
+.btn2 {
+  background-color: #0B558F;
+  border-radius: 5px;
+  border-color: #0B558F;
+  color: #dddddd;
+  padding-top: 6px;
+  padding-bottom: 6px;
+  font-size: 15pt;
+  font-weight:bold;
+  transition: 0.3s;
+}
+.btn2On {
+  background-color: #555555;
+  border-radius: 5px;
+  border-color: #555555;
+  color: #dddddd;
+  padding-top: 6px;
+  padding-bottom: 6px;
+  font-size: 15pt;
+  font-weight:bold;
+  transition: 0.3s;
+}
+.btn2:hover {
+    background-color: #a5a5a5;
+    color: #dddddd;
+    border-radius: 5px;
+    border-color: #a5a5a5;
+}
+h1{
+    color: #dddddd;
+    font-size: 30px;
+}
+h4{
+    color: #dddddd;
+    font-size: 25px;
+}
+h6{
+    color: #dddddd;
+    font-size: 15px;
+}
+.PanelImage {
+  padding-top: 50px;
+  padding-bottom: 50px;
+}
+.PanelImageW {
+  padding-top: 0px;
+  padding-bottom: 50px;
+}
